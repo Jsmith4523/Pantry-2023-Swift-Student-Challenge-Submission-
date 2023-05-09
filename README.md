@@ -1,3 +1,5 @@
+<img src="https://github.com/Jsmith4523/assets/blob/main/IMG_4340%20Large%202.jpg?raw=true">
+
 # Pantry 
 
 My 2023 Swift Student Challenge Project is called 'Pantry'. In this project, I focused on reducing food waste, costly expenses, and managing in-house kitchen inventory through likes of scanning UPC barcodes and machine learning using an iPhone's camera. 
