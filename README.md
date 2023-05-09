@@ -1,4 +1,4 @@
-<img src="https://github.com/Jsmith4523/assets/blob/main/IMG_4340%20Large%202.jpg?raw=true">
+<img src="https://github.com/Jsmith4523/Pantry-2023-Swift-Student-Challenge-Submission-/blob/main/Pantry%20GitHub%20.jpg?raw=true">
 
 # Pantry 
 
