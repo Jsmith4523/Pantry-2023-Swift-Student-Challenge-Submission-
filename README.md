@@ -26,3 +26,9 @@ If Pantry detects that an item is low or out of stock, the user is directly noti
 * Vision
 * CreateML
 * CoreML
+
+© 2024 Pantry. All rights reserved.
+
+This project and its contents are the intellectual property of Pantry. Redistribution, modification, or use of the code, design, or related materials without express written permission is prohibited.
+
+For inquiries regarding licensing or collaboration, please contact Jaylen Smith: jaylensmith4521@gmail.com.
